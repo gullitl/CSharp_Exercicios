@@ -1,14 +1,12 @@
 <h1>Exercício C# - LAB01</h1>
---------------------
 
 
 
 Escrever um programa com os seguintes requisitos:
 
-Requisitos Funcionais
----------------------
+<h3>Requisitos Funcionais</h3>
 O programa deve:
-RF01 - exibir no console um menu com 5 opções:
+<br>RF01 - exibir no console um menu com 5 opções:
         1 - Efetuar a soma de números ímpares de 1 a 20
         2-  Calcular a potência de um número elevado ao cubo
         3 - Calcular o quadrado da diferença do maior pelo menor entre 2 números
