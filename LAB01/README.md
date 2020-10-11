@@ -54,12 +54,17 @@ Link do vídeo do resultado
 Consulta no material
 --------------------
 01.06 – Calcula o quadrado da diferença entre números
+
 02.08 – Quadrado de um número
+
 03.06 – Soma do quadrado de números
+
 07.03 – Quadrado entre um intervalo
+
 13.03 – Quadrado de números
 
 08.07 – Potências de um intervalo
+
 02.07 – Calcula potência de número
 12.02 – Potência de 3 com variações
 
