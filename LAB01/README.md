@@ -7,11 +7,11 @@ Escrever um programa com os seguintes requisitos:
 <h2>Requisitos Funcionais</h2>
 O programa deve:
 <br>RF01 - exibir no console um menu com 5 opções:
-        1 - Efetuar a soma de números ímpares de 1 a 20
-        2-  Calcular a potência de um número elevado ao cubo
-        3 - Calcular o quadrado da diferença do maior pelo menor entre 2 números
-        4 - Calcular os quadrados dos números compreendidos entre 1 a 20
-        5 - Verifica se um número está na faixa de 20 a 90
+        <br>1 - Efetuar a soma de números ímpares de 1 a 20
+        <br>2-  Calcular a potência de um número elevado ao cubo
+        <br>3 - Calcular o quadrado da diferença do maior pelo menor entre 2 números
+        <br>4 - Calcular os quadrados dos números compreendidos entre 1 a 20
+        <br>5 - Verifica se um número está na faixa de 20 a 90
 
 RF02 - possibilitar que o usuário digite no console a opção do menu escolhida;
 
