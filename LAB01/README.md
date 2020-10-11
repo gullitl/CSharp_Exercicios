@@ -4,7 +4,7 @@
 
 Escrever um programa com os seguintes requisitos:
 
-<h3>Requisitos Funcionais</h3>
+<h2>Requisitos Funcionais</h2>
 O programa deve:
 <br>RF01 - exibir no console um menu com 5 opções:
         1 - Efetuar a soma de números ímpares de 1 a 20
