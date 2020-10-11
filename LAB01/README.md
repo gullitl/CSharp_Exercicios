@@ -51,8 +51,8 @@ Link do vídeo do resultado
 
 
 
-Consulta no material
---------------------
+Consulta no material Visual C# .Net Nível I - Básico
+----------------------------------------------------
 01.06 – Calcula o quadrado da diferença entre números
 
 02.08 – Quadrado de um número
@@ -66,31 +66,46 @@ Consulta no material
 08.07 – Potências de um intervalo
 
 02.07 – Calcula potência de número
+
 12.02 – Potência de 3 com variações
 
 04.01 – Verifica número informado
+
 06.07 – Verifica número 
+
 07.05 – Lê valores e verifica-os
+
 04.02 – Verificar o maior e o menor número dados
 
 04.04 – Ler dois números e verificar a diferença
+
 04.06 – Lê dois número e verifica suas diferenças
 
 04.05 – Aceita números e verifica seus divisores
+
 05.06 – Recebe números e verifica divisores
+
 07.06 – Gera números e verifica divisores
+
 10.07 – Gera números divisíveis
 
 04.08 – Lê números e comparar valores
+
 05.01 – Soma números e comparar resultado
+
 06.02 – Compara soma de números
+
 06.04 – Compara valores
+
 13.10 – Comparação entre números
+
 16.06 – Compara números
 
 07.07 – Termos de PA
+
 11.08 – Calcula termos de PA
 
 08.01 – Apresenta valores em uma faixa de números
+
 08.08 – Lê números em um intervalo
 
