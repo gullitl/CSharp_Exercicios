@@ -1,4 +1,4 @@
-Exercício C# - LAB01
+<h1>Exercício C# - LAB01</h1>
 --------------------
 
 
@@ -54,7 +54,7 @@ Link do vídeo do resultado
 Consulta no material Visual C# .Net Nível I - Básico
 ----------------------------------------------------
 01.06 – Calcula o quadrado da diferença entre números
-
+<br>
 02.08 – Quadrado de um número
 
 03.06 – Soma do quadrado de números
