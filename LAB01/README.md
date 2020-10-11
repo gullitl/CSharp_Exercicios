@@ -30,8 +30,7 @@ RF08 - solicitar que o usuário informe um número qualquer e verificar se o nú
 RF09 - permitir que depois de cada processamento da opção escolhida, seja solicitado que o usuário informe se deseja prosseguir, caso a resposta informada seja positiva deve ser exibido novamente o menu para o usuário escolher entre as opções, caso a resposta seja negativa deve ser encerrado o programa.   
 
 
-Requisitos Não-funcionais
--------------------------
+<h2>Requisitos Não-funcionais</h2>
 O programa deve:
 RN01 - ser nomeado LAB01Aritmetica;
 RN02 - exibir a data e hora do início da execução;
@@ -43,14 +42,12 @@ RN06 - alinhar os textos do programa no centro do console.
 
 
 
-Link do vídeo do resultado
---------------------------
+<h2>Link do vídeo do resultado esperado</h2>
 ############################
 
 
 
-Consulta no material Visual C# .Net Nível I - Básico
-----------------------------------------------------
+<h2>Consulta no material Visual C# .Net Nível I - Básico</h2>
 01.06 – Calcula o quadrado da diferença entre números
 <br>
 02.08 – Quadrado de um número
