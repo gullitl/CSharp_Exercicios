@@ -1,7 +1,6 @@
 <h1>Exercício C# - LAB01</h1>
 </a><br/>
 
-
 Escrever um programa com os seguintes requisitos:
 
 <h2>Requisitos Funcionais</h2>
@@ -49,7 +48,7 @@ O programa deve:
 <a href="https://www.w3schools.com/" target="_blank">Assistir o vídeo</a>
 <br/><br/>
 
-<h2>Consulta no material Visual C# .Net Nível I - Básico</h2>
+<h2>Consulta no material: Visual C# .Net Nível I - Básico</h2>
 01.06 – Calcula o quadrado da diferença entre números<br/>
 02.08 – Quadrado de um número<br/>
 03.06 – Soma do quadrado de números<br/>
