@@ -8,10 +8,10 @@ Escrever um programa com os seguintes requisitos:
 O programa deve:
 <br/><b>RF01</b> - exibir no console um menu com 5 opções:<br>
 &nbsp;&emsp;&emsp;&emsp;1 - Efetuar a soma de números ímpares de 1 a 20<br/>
-&emsp;&emsp;&emsp;2-  Calcular a potência de um número elevado ao cubo<br/>
-&emsp;&emsp;&emsp;3 - Calcular o quadrado da diferença do maior pelo menor entre 2 números<br/>
-&emsp;&emsp;&emsp;4 - Calcular os quadrados dos números compreendidos entre 1 a 20<br/>
-&emsp;&emsp;&emsp;5 - Verifica se um número está na faixa de 20 a 90<br/><br/>
+&nbsp;&emsp;&emsp;&emsp;2-  Calcular a potência de um número elevado ao cubo<br/>
+&nbsp;&emsp;&emsp;&emsp;3 - Calcular o quadrado da diferença do maior pelo menor entre 2 números<br/>
+&nbsp;&emsp;&emsp;&emsp;4 - Calcular os quadrados dos números compreendidos entre 1 a 20<br/>
+&nbsp;&emsp;&emsp;&emsp;5 - Verifica se um número está na faixa de 20 a 90<br/><br/>
 
 <b>RF02</b> - possibilitar que o usuário digite no console a opção do menu escolhida;
 
