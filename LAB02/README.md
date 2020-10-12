@@ -6,32 +6,32 @@ Escrever um programa com os seguintes requisitos:
 <h2>Requisitos Funcionais</h2>
 O programa deve:
 <br/><b>RF01</b> - exibir no console um menu com 5 opções:<br>
-&nbsp;&emsp;&emsp;&emsp;1 - Efetuar a soma de números ímpares de 1 a 20<br/>
-&nbsp;&emsp;&emsp;&emsp;2-  Calcular a potência de um número elevado ao cubo<br/>
-&nbsp;&emsp;&emsp;&emsp;3 - Calcular o quadrado da diferença do maior pelo menor entre 2 números<br/>
-&nbsp;&emsp;&emsp;&emsp;4 - Calcular os quadrados dos números compreendidos entre 1 a 20<br/>
-&nbsp;&emsp;&emsp;&emsp;5 - Verifica se um número está na faixa de 20 a 90<br/><br/>
+&nbsp;&emsp;&emsp;&emsp;1 - Verifica entre 5 números quantos são negativos<br/>
+&nbsp;&emsp;&emsp;&emsp;2-  Identificar o maior e menor número dentre 5<br/>
+&nbsp;&emsp;&emsp;&emsp;3 - Verificar entre 4 números quais são divisíveis por 2 ou 3<br/>
+&nbsp;&emsp;&emsp;&emsp;4 - Calcular os termos de uma progressão aritmética de N elementos<br/>
+&nbsp;&emsp;&emsp;&emsp;5 - Calcula a soma de termos de uma série<br/><br/>
 
 <b>RF02</b> - possibilitar que o usuário digite no console a opção do menu escolhida;
 
 <b>RF03</b> - ter um método implementado para processar cada opção;
 
-<b>RF04</b> - apresentar o resultado da soma de números ímpares de 1 a 20, caso a opção escolhida seja 1;
+<b>RF04</b> - solicitar que o usuário informe 5 números quaisquer, um de cada vez, e conta quantos destes valores são negativos, caso a opção escolhida seja 1;
 
-<b>RF05</b> - solicitar que o usuário informe um número qualquer e apresentar o resultado da potência desse número elevado ao cubo, caso a opção escolhida seja 2;
+<b>RF05</b> - solicitar que o usuário informe 5 números quaisquer, identificar e apresentar o maior e menor número entre os 5, caso a opção escolhida seja 2;
 
-<b>RF06</b> - solicitar que o usuário informe dois números quaisquer e apresentar o resultado do quadrado da diferença entre esses dois números, caso a opção escolhida seja 3;
+<b>RF06</b> - solicitar que o usuário informe 4 números quaisquer, verificar e apresentar quais são divisores de 2 ou 3, caso a opção escolhida seja 3;
 
-<b>RF07</b> - apresentar os quadrados dos números compreendidos entre 1 a 20, caso a opção escolhida seja 4; 
+<b>RF07</b> - solicitar que o usuário informe um número de elementos e da razão e calcular os termos de uma progressão aritmética do número de elementos, caso a opção escolhida seja 4; 
 
-<b>RF08</b> - solicitar que o usuário informe um número qualquer e verificar se o número informado pelo usuário está na faixa de 20 a 90, caso a opção escolhida seja 5;
+<b>RF08</b> - calcular e apresentar a soma de 50 termos da série: s = 1000/1 - 997/2 + 994/3 - 991/4 + … de forma que o somatório da série deva dar: 685.2969020576461, caso a opção escolhida seja 5;
 
 <b>RF09</b> - permitir que depois de cada processamento da opção escolhida, seja solicitado que o usuário informe se deseja prosseguir, caso a resposta informada seja positiva deve ser exibido novamente o menu para o usuário escolher entre as opções, caso a resposta seja negativa deve ser encerrado o programa.   
 </a><br/>
 
 <h2>Requisitos Não-funcionais</h2>
 O programa deve:
-<br/><b>RN01</b> - ser nomeado LAB01Aritmetica;<br/><br/>
+<br/><b>RN01</b> - ser nomeado LAB02Aritmetica;<br/><br/>
 
 <b>RN02</b> - exibir a data e hora do início da execução;
 
