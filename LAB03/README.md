@@ -11,11 +11,15 @@ O programa deve:
 
 <b>RF02</b> - possibilitar que o usuário digite no console a opção do menu escolhida;
 
-<b>RF03</b> - ter um método implementado para processar cada opção;
+<b>RF03</b> - ter um método implementado para processar cada opção com a exceção do RF06;
 
 <b>RF04</b> - solicitar que o usuário informe um número e 2 intervalos de números [A,B] e [C,D] e verificar e apresentar se o número pertence ao intervalo [A,B] ou somente ao intervalo [C,D] ou se pertence a ambos ou se não pertence a nenhum dos dois, caso a opção escolhida for 1;
 
 <b>RF05</b> - solicitar que o usuário informe um número com 4 dígitos entre 1000 e 9999, extrai e apresenta cada dígito, caso a opção escolhida for 2;
+
+<b>RF06</b> - calcular e apresentar o resultado da seguinte função: <b>f(x,y) = (((x^2) + 3x + (y^2)) / ((xy) - 5y - 3x + 15))</b> onde para cada valor de x = 1 até 100 e y = de 0 até 5, caso a opção escolhida for 3;
+
+<b>RF07</b> - calcular e apresentar o resiltado da seguinte série: <b>(x^25)/1 - (x^24)/2 + (x^23)/3 - (x^22)/4 + ... + (x)/25</b> onde x é elevado a um expoente, caso a opção escolhida for 4;
 
 
 
