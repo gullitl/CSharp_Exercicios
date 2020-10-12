@@ -1,5 +1,5 @@
 <h1>Exercício C# - LAB01</h1>
-
+</a><br/><br/>
 
 
 Escrever um programa com os seguintes requisitos:
@@ -28,7 +28,7 @@ O programa deve:
 <b>RF08</b> - solicitar que o usuário informe um número qualquer e verificar se o número informado pelo usuário está na faixa de 20 a 90, caso a opção escolhida seja 5;
 
 <b>RF09</b> - permitir que depois de cada processamento da opção escolhida, seja solicitado que o usuário informe se deseja prosseguir, caso a resposta informada seja positiva deve ser exibido novamente o menu para o usuário escolher entre as opções, caso a resposta seja negativa deve ser encerrado o programa.   
-</a><br/><br/>
+</a><br/>
 
 <h2>Requisitos Não-funcionais</h2>
 O programa deve:
