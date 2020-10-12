@@ -50,59 +50,38 @@ O programa deve:
 <br/><br/>
 
 <h2>Consulta no material Visual C# .Net Nível I - Básico</h2>
-01.06 – Calcula o quadrado da diferença entre números
-<br>
-02.08 – Quadrado de um número
+01.06 – Calcula o quadrado da diferença entre números<br/>
+02.08 – Quadrado de um número<br/>
+03.06 – Soma do quadrado de números<br/>
+07.03 – Quadrado entre um intervalo<br/>
+13.03 – Quadrado de números<br/><br/>
 
-03.06 – Soma do quadrado de números
+08.07 – Potências de um intervalo<br/>
+02.07 – Calcula potência de número<br/>
+12.02 – Potência de 3 com variações<br/><br/>
 
-07.03 – Quadrado entre um intervalo
+04.01 – Verifica número informado<br/>
+06.07 – Verifica número<br/>
+07.05 – Lê valores e verifica-os<br/>
+04.02 – Verificar o maior e o menor número dados<br/><br/>
 
-13.03 – Quadrado de números
+04.04 – Ler dois números e verificar a diferença<br/>
+04.06 – Lê dois número e verifica suas diferenças<br/><br/>
 
-08.07 – Potências de um intervalo
+04.05 – Aceita números e verifica seus divisores<br/>
+05.06 – Recebe números e verifica divisores<br/>
+07.06 – Gera números e verifica divisores<br/>
+10.07 – Gera números divisíveis<br/><br/>
 
-02.07 – Calcula potência de número
+04.08 – Lê números e comparar valores<br/>
+05.01 – Soma números e comparar resultado<br/>
+06.02 – Compara soma de números<br/>
+06.04 – Compara valores<br/>
+13.10 – Comparação entre números<br/>
+16.06 – Compara números<br/><br/>
 
-12.02 – Potência de 3 com variações
+07.07 – Termos de PA<br/>
+11.08 – Calcula termos de PA<br/><br/>
 
-04.01 – Verifica número informado
-
-06.07 – Verifica número 
-
-07.05 – Lê valores e verifica-os
-
-04.02 – Verificar o maior e o menor número dados
-
-04.04 – Ler dois números e verificar a diferença
-
-04.06 – Lê dois número e verifica suas diferenças
-
-04.05 – Aceita números e verifica seus divisores
-
-05.06 – Recebe números e verifica divisores
-
-07.06 – Gera números e verifica divisores
-
-10.07 – Gera números divisíveis
-
-04.08 – Lê números e comparar valores
-
-05.01 – Soma números e comparar resultado
-
-06.02 – Compara soma de números
-
-06.04 – Compara valores
-
-13.10 – Comparação entre números
-
-16.06 – Compara números
-
-07.07 – Termos de PA
-
-11.08 – Calcula termos de PA
-
-08.01 – Apresenta valores em uma faixa de números
-
+08.01 – Apresenta valores em uma faixa de números<br/>
 08.08 – Lê números em um intervalo
-
