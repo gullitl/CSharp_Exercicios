@@ -27,7 +27,7 @@ O programa deve:
 <b>RF08</b> - solicitar que o usuário informe um número qualquer e verificar se o número informado pelo usuário está na faixa de 20 a 90, caso a opção escolhida seja 5;
 
 <b>RF09</b> - permitir que depois de cada processamento da opção escolhida, seja solicitado que o usuário informe se deseja prosseguir, caso a resposta informada seja positiva deve ser exibido novamente o menu para o usuário escolher entre as opções, caso a resposta seja negativa deve ser encerrado o programa.   
-</b><br/>
+<br/><br/>
 
 <h2>Requisitos Não-funcionais</h2>
 O programa deve:
@@ -42,7 +42,7 @@ O programa deve:
 <b>RN05</b> - utilizar estrutura de seleção (if, switch case);
 
 <b>RN06</b> - alinhar os textos do programa no centro do console.
-</a><br/><br/>
+<br/><br/>
 
 <h2>Vídeo do resultado esperado</h2>
 <a href="https://www.w3schools.com/" target="_blank">Assistir o vídeo</a>
