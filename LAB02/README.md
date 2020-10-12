@@ -24,7 +24,7 @@ O programa deve:
 
 <b>RF07</b> - solicitar que o usuário informe um número de elementos e da razão e calcular os termos de uma progressão aritmética do número de elementos, caso a opção escolhida seja 4; 
 
-<b>RF08</b> - calcular e apresentar a soma de 50 termos da série: s = 1000/1 - 997/2 + 994/3 - 991/4 + … de forma que o somatório da série deva dar: 685.2969020576461, caso a opção escolhida seja 5;
+<b>RF08</b> - calcular e apresentar a soma de 50 termos da série: <b>s = 1000/1 - 997/2 + 994/3 - 991/4 + …</b> de forma que o somatório da série deva dar: 685.2969020576461, caso a opção escolhida seja 5;
 
 <b>RF09</b> - permitir que depois de cada processamento da opção escolhida, seja solicitado que o usuário informe se deseja prosseguir, caso a resposta informada seja positiva deve ser exibido novamente o menu para o usuário escolher entre as opções, caso a resposta seja negativa deve ser encerrado o programa.   
 </a><br/>
