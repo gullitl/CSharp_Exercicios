@@ -47,11 +47,8 @@ O programa deve:
 
 
 
-<h2>Link do vídeo do resultado esperado</h2>
-<object width="425" height="350">
-<param name="movie" value="https://www.youtube.com/watch?v=Kb7Ru6vge_4" />
-<embed src="https://www.youtube.com/watch?v=Kb7Ru6vge_4" type="application/x-shockwave-flash" width="425" height="350" />
-</object>
+<h2>Vídeo do resultado esperado</h2>
+<a href="https://www.w3schools.com/" target="_blank">Assistir o vídeo</a>
 
 
 
