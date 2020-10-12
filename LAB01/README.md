@@ -13,37 +13,42 @@ O programa deve:
 &emsp;&emsp;&emsp;4 - Calcular os quadrados dos números compreendidos entre 1 a 20<br/>
 &emsp;&emsp;&emsp;5 - Verifica se um número está na faixa de 20 a 90<br/>
 
-RF02 - possibilitar que o usuário digite no console a opção do menu escolhida;
+<b>RF02</b> - possibilitar que o usuário digite no console a opção do menu escolhida;
 
-RF03 - ter um método implementado para processar cada opção;
+<b>RF03</b> - ter um método implementado para processar cada opção;
 
-RF04 - apresentar o resultado da soma de números ímpares de 1 a 20, caso a opção escolhida seja 1;
+<b>RF04</b> - apresentar o resultado da soma de números ímpares de 1 a 20, caso a opção escolhida seja 1;
 
-RF05 - solicitar que o usuário informe um número qualquer e apresentar o resultado da potência desse número elevado ao cubo, caso a opção escolhida seja 2;
+<b>RF05</b> - solicitar que o usuário informe um número qualquer e apresentar o resultado da potência desse número elevado ao cubo, caso a opção escolhida seja 2;
 
-RF06 - solicitar que o usuário informe dois números quaisquer e apresentar o resultado do quadrado da diferença entre esses dois números, caso a opção escolhida seja 3;
+<b>RF06</b> - solicitar que o usuário informe dois números quaisquer e apresentar o resultado do quadrado da diferença entre esses dois números, caso a opção escolhida seja 3;
 
-RF07 - apresentar os quadrados dos números compreendidos entre 1 a 20, caso a opção escolhida seja 4; 
+<b>RF07</b> - apresentar os quadrados dos números compreendidos entre 1 a 20, caso a opção escolhida seja 4; 
 
-RF08 - solicitar que o usuário informe um número qualquer e verificar se o número informado pelo usuário está na faixa de 20 a 90, caso a opção escolhida seja 5;
+<b>RF08</b> - solicitar que o usuário informe um número qualquer e verificar se o número informado pelo usuário está na faixa de 20 a 90, caso a opção escolhida seja 5;
 
-RF09 - permitir que depois de cada processamento da opção escolhida, seja solicitado que o usuário informe se deseja prosseguir, caso a resposta informada seja positiva deve ser exibido novamente o menu para o usuário escolher entre as opções, caso a resposta seja negativa deve ser encerrado o programa.   
+<b>RF09</b> - permitir que depois de cada processamento da opção escolhida, seja solicitado que o usuário informe se deseja prosseguir, caso a resposta informada seja positiva deve ser exibido novamente o menu para o usuário escolher entre as opções, caso a resposta seja negativa deve ser encerrado o programa.   
 
 
 <h2>Requisitos Não-funcionais</h2>
 O programa deve:
-RN01 - ser nomeado LAB01Aritmetica;
-RN02 - exibir a data e hora do início da execução;
-RN03 - utilizar estrutura de repetição (while, foreach);
-RN04 - utilizar Collections (IEnumerable, Dictionary, List);
-RN05 - utilizar estrutura de seleção (if, switch case);
-RN06 - alinhar os textos do programa no centro do console.
+<br/><b>RN01</b> - ser nomeado LAB01Aritmetica;
+
+<b>RN02</b> - exibir a data e hora do início da execução;
+
+<b>RN03</b> - utilizar estrutura de repetição (while, foreach);
+
+<b>RN04</b> - utilizar Collections (IEnumerable, Dictionary, List);
+
+<b>RN05</b> - utilizar estrutura de seleção (if, switch case);
+
+<b>RN06</b> - alinhar os textos do programa no centro do console.
 
 
 
 
 <h2>Link do vídeo do resultado esperado</h2>
-############################
+<a href="https://www.w3schools.com/" target="_blank">Assistir o vídeo do resultado esperado</a>
 
 
 
