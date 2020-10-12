@@ -1,5 +1,5 @@
 <h1>Exercício C# - LAB01</h1>
-</a><br/><br/>
+</a><br/>
 
 
 Escrever um programa com os seguintes requisitos:
