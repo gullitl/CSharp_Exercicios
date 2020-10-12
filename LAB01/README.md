@@ -32,8 +32,8 @@ O programa deve:
 
 <h2>Requisitos Não-funcionais</h2>
 O programa deve:
-<br/><b>RN01</b> - ser nomeado LAB01Aritmetica;
-<br/>
+<br/><b>RN01</b> - ser nomeado LAB01Aritmetica;<br/>
+
 <b>RN02</b> - exibir a data e hora do início da execução;
 
 <b>RN03</b> - utilizar estrutura de repetição (while, foreach);
