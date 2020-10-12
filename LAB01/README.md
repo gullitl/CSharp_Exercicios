@@ -48,7 +48,7 @@ O programa deve:
 
 
 <h2>Link do vídeo do resultado esperado</h2>
-<a href="https://www.w3schools.com/" target="_blank">Assistir o vídeo do resultado esperado</a>
+<a href="https://www.w3schools.com/" >Assistir o vídeo do resultado esperado</a>
 
 
 
