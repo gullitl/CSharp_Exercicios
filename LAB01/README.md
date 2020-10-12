@@ -6,7 +6,7 @@ Escrever um programa com os seguintes requisitos:
 
 <h2>Requisitos Funcionais</h2>
 O programa deve:
-<br/>RF01 - exibir no console um menu com 5 opções:<br>
+<br/><b>RF01</b> - exibir no console um menu com 5 opções:<br>
 &emsp;&emsp;&emsp;1 - Efetuar a soma de números ímpares de 1 a 20<br/>
 &emsp;&emsp;&emsp;2-  Calcular a potência de um número elevado ao cubo<br/>
 &emsp;&emsp;&emsp;3 - Calcular o quadrado da diferença do maior pelo menor entre 2 números<br/>
