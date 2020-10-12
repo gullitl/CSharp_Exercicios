@@ -6,32 +6,25 @@ Escrever um programa com os seguintes requisitos:
 <h2>Requisitos Funcionais</h2>
 O programa deve:
 <br/><b>RF01</b> - exibir no console um menu com 5 opções:<br>
-&nbsp;&emsp;&emsp;&emsp;1 - Efetuar a soma de números ímpares de 1 a 20<br/>
-&nbsp;&emsp;&emsp;&emsp;2-  Calcular a potência de um número elevado ao cubo<br/>
-&nbsp;&emsp;&emsp;&emsp;3 - Calcular o quadrado da diferença do maior pelo menor entre 2 números<br/>
-&nbsp;&emsp;&emsp;&emsp;4 - Calcular os quadrados dos números compreendidos entre 1 a 20<br/>
-&nbsp;&emsp;&emsp;&emsp;5 - Verifica se um número está na faixa de 20 a 90<br/><br/>
+&nbsp;&emsp;&emsp;&emsp;1 - Achar o intervalo ao qual o número pertence<br/>
+&nbsp;&emsp;&emsp;&emsp;2-  Extrair cada dígito de um número<br/>
 
 <b>RF02</b> - possibilitar que o usuário digite no console a opção do menu escolhida;
 
 <b>RF03</b> - ter um método implementado para processar cada opção;
 
-<b>RF04</b> - apresentar o resultado da soma de números ímpares de 1 a 20, caso a opção escolhida seja 1;
+<b>RF04</b> - solicitar que o usuário informe um número e 2 intervalos de números [A,B] e [C,D] e verificar e apresentar se o número pertence ao intervalo [A,B] ou somente ao intervalo [C,D] ou se pertence a ambos ou se não pertence a nenhum dos dois, caso a opção escolhida for 1;
 
-<b>RF05</b> - solicitar que o usuário informe um número qualquer e apresentar o resultado da potência desse número elevado ao cubo, caso a opção escolhida seja 2;
+<b>RF05</b> - solicitar que o usuário informe um número com 4 dígitos entre 1000 e 9999, extrai e apresenta cada dígito, caso a opção escolhida for 2;
 
-<b>RF06</b> - solicitar que o usuário informe dois números quaisquer e apresentar o resultado do quadrado da diferença entre esses dois números, caso a opção escolhida seja 3;
 
-<b>RF07</b> - apresentar os quadrados dos números compreendidos entre 1 a 20, caso a opção escolhida seja 4; 
-
-<b>RF08</b> - solicitar que o usuário informe um número qualquer e verificar se o número informado pelo usuário está na faixa de 20 a 90, caso a opção escolhida seja 5;
 
 <b>RF09</b> - permitir que depois de cada processamento da opção escolhida, seja solicitado que o usuário informe se deseja prosseguir, caso a resposta informada seja positiva deve ser exibido novamente o menu para o usuário escolher entre as opções, caso a resposta seja negativa deve ser encerrado o programa.   
-</a><br/>
+</b><br/>
 
 <h2>Requisitos Não-funcionais</h2>
 O programa deve:
-<br/><b>RN01</b> - ser nomeado LAB01Aritmetica;<br/><br/>
+<br/><b>RN01</b> - ser nomeado LAB03Aritmetica;<br/><br/>
 
 <b>RN02</b> - exibir a data e hora do início da execução;
 
