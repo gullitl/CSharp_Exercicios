@@ -10,7 +10,7 @@ O programa deve:
 &nbsp;&emsp;&emsp;&emsp;2-  Calcular a potência de um número elevado ao cubo<br/>
 &nbsp;&emsp;&emsp;&emsp;3 - Calcular o quadrado da diferença do maior pelo menor entre 2 números<br/>
 &nbsp;&emsp;&emsp;&emsp;4 - Calcular os quadrados dos números compreendidos entre 1 a 20<br/>
-&nbsp;&emsp;&emsp;&emsp;5 - Verifica se um número está na faixa de 20 a 90<br/><br/>
+&nbsp;&emsp;&emsp;&emsp;5 - Verificar se um número está na faixa de 20 a 90<br/><br/>
 
 <b>RF02</b> - possibilitar que o usuário digite no console a opção do menu escolhida;
 
