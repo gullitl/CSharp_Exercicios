@@ -45,7 +45,7 @@ O programa deve:
 <br/><br/>
 
 <h2>Vídeo do resultado esperado</h2>
-<a href="https://www.w3schools.com/" target="_blank">Assistir o vídeo</a>
+<a href="https://drive.google.com/file/d/1XlP3uT-7WieW5-48hDA2z1-q300u053Y/view?usp=sharing"_blank">Assistir o vídeo</a>
 <br/><br/>
 
 <h2>Consulta no material: Visual C# .Net Nível I - Básico</h2>
