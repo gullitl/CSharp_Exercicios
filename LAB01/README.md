@@ -46,6 +46,7 @@ O programa deve:
 
 <h2>Vídeo do resultado esperado</h2>
 <a href="https://drive.google.com/file/d/1XlP3uT-7WieW5-48hDA2z1-q300u053Y/view?usp=sharing"_blank">Clique aqui para assistir o vídeo</a>
+<a href="https://drive.google.com/file/d/1XlP3uT-7WieW5-48hDA2z1-q300u053Y/view?usp=sharing"_blank">Clique aqui para assistir a 2º versão do vídeo</a>
 <br/><br/>
 
 <h2>Consulta no material: Visual C# .Net Nível I - Básico</h2>
