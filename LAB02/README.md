@@ -6,11 +6,11 @@ Escrever um programa com os seguintes requisitos:
 <h2>Requisitos Funcionais</h2>
 O programa deve:
 <br/><b>RF01</b> - exibir no console um menu com 5 opções:<br>
-&nbsp;&emsp;&emsp;&emsp;1 - Verifica entre 5 números quantos são negativos<br/>
+&nbsp;&emsp;&emsp;&emsp;1 - Verificar entre 5 números quantos são negativos<br/>
 &nbsp;&emsp;&emsp;&emsp;2-  Identificar o maior e menor número dentre 5<br/>
 &nbsp;&emsp;&emsp;&emsp;3 - Verificar entre 4 números quais são divisíveis por 2 ou 3<br/>
 &nbsp;&emsp;&emsp;&emsp;4 - Calcular os termos de uma progressão aritmética de N elementos<br/>
-&nbsp;&emsp;&emsp;&emsp;5 - Calcula a soma de termos de uma série<br/><br/>
+&nbsp;&emsp;&emsp;&emsp;5 - Calcular a soma de termos de uma série<br/><br/>
 
 <b>RF02</b> - possibilitar que o usuário digite no console a opção do menu escolhida;
 
