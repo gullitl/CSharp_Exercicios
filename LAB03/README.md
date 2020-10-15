@@ -11,7 +11,7 @@ O programa deve:
 
 <b>RF02</b> - possibilitar que o usuário digite no console a opção do menu escolhida;
 
-<b>RF03</b> - ter um método implementado para processar cada opção com a exceção do RF06;
+<b>RF03</b> - ter um método implementado para processar cada opção, com a exceção do RF06;
 
 <b>RF04</b> - solicitar que o usuário informe um número e 2 intervalos de números [A,B] e [C,D] e verificar e apresentar se o número pertence ao intervalo [A,B] ou somente ao intervalo [C,D] ou se pertence a ambos ou se não pertence a nenhum dos dois, caso a opção escolhida for 1;
 
